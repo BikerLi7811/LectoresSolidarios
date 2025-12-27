@@ -50,11 +50,11 @@ round-avatar: false
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  facebook: deanattali
+#  github: daattali
+#  twitter: daattali
+#  patreon: DeanAttali
   youtube: "@daattali"
   whatsapp: 15551212
 #  medium: yourname
@@ -63,7 +63,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: deanat78
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -136,16 +136,16 @@ navbar-var-length: false
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 page-col: "#f4e5d2"
-text-col: "#404040"
+text-col: "#3150df"
 link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#f4e5d2"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+hover-col: "#df31a7"
+navbar-col: "#dfc031"
+navbar-text-col: "#31df69"
+navbar-border-col: "#96df31"
+footer-col: "#df3150"
+footer-text-col: "#ffb000"
+footer-link-col: "#e600ff"
+footer-hover-col: "#00daff"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
