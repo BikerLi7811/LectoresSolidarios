@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Nuestra visión
 subtitle: Qué queremos lograr y como lo haremos!
 ---
