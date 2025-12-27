@@ -15,7 +15,8 @@ title: Lectores Solidarios
 # Your name to show in the footer
 author: Liang Chong
 
-cover-img: /assets/img/path.jpg
+header:
+  image: /assets/img/path.jpg
 
 ###############################################
 # --- List of links in the navigation bar --- #
