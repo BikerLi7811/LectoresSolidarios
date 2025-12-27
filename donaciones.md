@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: page
 title: Donaciones
 subtitle: Cómo donar libros u otras donaciones!
 ---
